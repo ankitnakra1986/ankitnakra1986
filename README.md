@@ -1,6 +1,6 @@
 # Ankit Nakra
 
-AI product & solutions leader. I embed with operators, turn messy workflows into working AI systems, and own demo-to-adoption — last mile in **health**, logistics, and field ops.
+AI product & solutions leader. I embed with operators, turn messy workflows into working AI systems, and own demo-to-adoption  last mile in **health**, logistics, and field ops.
 
 ### Start here
 
