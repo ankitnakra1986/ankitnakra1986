@@ -10,7 +10,7 @@ AI product & solutions leader. 15+ years in tech, 6 in product. I embed with ope
 
 ### Start here
 
-1. **[iecho-rag-chatbot](https://github.com/ankitnakra1986/iecho-rag-chatbot)**: Healthcare / agri RAG on AWS Bedrock. Product-owned with ASU CIC. 96% on golden set at ~1/6th enterprise cost (estimate). Honest case study (concept → beta, compliance before full scale).
+1. **[iecho-rag-chatbot](https://github.com/ankitnakra1986/iecho-rag-chatbot)**: Healthcare / agri RAG on AWS Bedrock. Product-owned with ASU CIC. 96% on a small SME-built golden set at ~1/6th enterprise cost (estimate). Honest case study (concept → beta, compliance before full scale).
 2. **[campaign-copilot](https://github.com/ankitnakra1986/campaign-copilot)**: Marketing email agent + human workflow (trust checks, legal gate, kill switch). Clickable prototype.
 3. **[postresilience](https://github.com/ankitnakra1986/postresilience)**: Voice-first multi-agent disaster response prototype for postal field staff, built at an AWS-sponsored hackathon. Invited to submit a funding proposal to the UPU Innovation Challenge 2026 (in progress). [Live demo](https://postresilience.vercel.app)
 
